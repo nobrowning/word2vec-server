@@ -1,0 +1,8 @@
+corpus:
+  searchTreePath: E:\data\mag\phrases\phrases_search_tree.json
+  stopWordsPath: E:\data\mag\phrases\english_stopwords
+  word2vecModelPath: E:\data\mag\models\mag_word2vec.model.bin
+  phraseDictPath: E:\data\mag\phrases\mag_phrases_all_min5_2.map
+
+server:
+  port: 5933
